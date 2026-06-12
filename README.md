@@ -5,6 +5,8 @@
 This project focuses on helping Nexa Ltd gain deeper visibility into its workforce through data. As organizations face increasing challenges around employee engagement, performance management, workforce planning, and training effectiveness, leadership needed a centralized view of key HR metrics to support strategic decision-making.
 
 As the data analyst, I transformed workforce data into an interactive Excel dashboard that provides insights into employee demographics, engagement levels, performance outcomes, training investments, and workforce development initiatives.
+
+
 ---
 
 ## 🎯 Project Overview
